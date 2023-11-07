@@ -224,6 +224,8 @@ body {
   font-weight: 700;
   line-height: 157%;
   margin-bottom: 31px;
+  max-width: 580px;
+  
 }
 .story__descr {
   color: #fff;
@@ -256,7 +258,6 @@ body {
 }
 
 .product__container {
-  max-width: 1920px;
   min-height: 922px;
   display: flex;
   justify-content: center;
